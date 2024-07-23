@@ -2,6 +2,8 @@
 
 This project uses a pre-trained YOLOv10 model and OpenCV to process video frames, detect persons, and identify their presence within a defined restricted area. The output is a video with annotations highlighting the detected persons and indicating if they are within the restricted zone.
 
+https://github.com/user-attachments/assets/16542878-e84c-4a84-9068-64c46e4496f7
+
 ## Features
 
 - **Object Detection**: Utilizes YOLOv10 to detect persons in each video frame.

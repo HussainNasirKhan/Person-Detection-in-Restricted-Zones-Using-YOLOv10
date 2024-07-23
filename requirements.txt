@@ -1,3 +1,2 @@
-ipykernel
 ultralytics
 opencv-python
